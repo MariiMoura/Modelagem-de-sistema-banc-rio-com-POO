@@ -1,1 +1,1 @@
-# Modelagem-de-sistema-banc-rio-com-POO
+# Modelagem-de-sistema bancario com POO
